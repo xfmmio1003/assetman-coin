@@ -1,2 +1,2 @@
 # assetman-coin
-资管币
+资产币
